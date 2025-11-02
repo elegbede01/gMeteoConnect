@@ -65,7 +65,7 @@ class _PrevisionInterfaceState extends State<PrevisionInterface> {
       backgroundColor: const Color.fromARGB(255, 255, 255, 255),
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 8, 147, 246),
-        title: const Text('Prévisions météo'),
+        title: const Text('Application météo'),
         centerTitle: true,
         automaticallyImplyLeading: true,
       ),
