@@ -31,7 +31,7 @@ L’application est conçue de manière **propre et modulaire**, avec des dossie
   <img src="img/m1.PNG " width="250" alt="Capture 1"/>
   <img src="img/m2.PNG" width="250" alt="Capture 2"/>
   <img src="img/m3.PNG" width="250" alt="Capture 3"/>
-  
+  <img src="img/m8.PNG" width="250" alt="Capture 8"/>
   <img src="img/m5.PNG" width="250" alt="Capture 4"/>
   <img src="img/m6.PNG" width="250" alt="Capture 4"/>
 
